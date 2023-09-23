@@ -3,6 +3,7 @@
 
 <p align="center">
 This Texture Pack aims to enhance the GUI of the backpacks form the Mod Traveler's Backpack, which is made by Tiviacz1337!  
-
+</p>
+<p align="center">
 The color palette I used for the darkmode is form the Default Dark Mode Texturepack by nebulr!
 </p>
