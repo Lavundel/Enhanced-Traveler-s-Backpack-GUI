@@ -8,5 +8,5 @@ This Texture Pack aims to enhance the GUI of the backpacks form the Mod Traveler
 The color palette I used for the darkmode is form the Default Dark Mode Texturepack by nebulr!
 </p>
 <p align="center">
-See on <a href="https://www.curseforge.com/minecraft/texture-packs/enhanced-travelers-backpack-gui" Curseforge> and <a href="https://modrinth.com/resourcepack/enhanced-travelers-backpack-gui" Modrith>
+See on <a href="https://www.curseforge.com/minecraft/texture-packs/enhanced-travelers-backpack-gui">Curseforge</a> and <a href="https://modrinth.com/resourcepack/enhanced-travelers-backpack-gui"> Modrith</a>
 </p>
