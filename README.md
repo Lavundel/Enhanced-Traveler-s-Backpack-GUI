@@ -1,5 +1,9 @@
+<p align="center">
 ![minecraft_title](https://github.com/Lavundel/Enhanced-Traveler-s-Backpack-GUI/assets/113695880/205a137c-ad25-4373-8166-e9b598f46a68)
+
+
 
 This Texture Pack aims to enhance the GUI of the backpacks form the Mod Traveler's Backpack, which is made by Tiviacz1337!  
 
-The color palette I used for the darkmode is form the Default Dark Mode Texturepack by nebulr!  
+The color palette I used for the darkmode is form the Default Dark Mode Texturepack by nebulr!
+</p>
